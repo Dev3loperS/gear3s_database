@@ -161,6 +161,7 @@ create table order_item(
 create table category_property(
 	id int auto_increment,
     name varchar(200) not null,
+    useFilter boolean,
     category_id int,
     
     primary key(id),
