@@ -1,0 +1,29 @@
+﻿id,name,category_id
+1,Kích thước ,3
+2,Độ phân giải ,3
+3,Màu sắc hiển thị ,3
+4,Tấm nền ,3
+5,Tần số quét,3
+6,Thiết kế ,1
+7,Kết nối ,1
+8,switch ,1
+9,Led,1
+10,Cảm biến,2
+11,Kết nối ,2
+12,DPI,2
+13,Led ,2
+14,Kiểu tai nghe ,4
+15,Kết nối ,4
+16, Tần số ,4
+17,Microphone,4
+18,Công suất tổng,6
+19,Thiết kế ,6
+20,Kết nối ,6
+21,Tần số ,6
+22,CPU,5
+23,RAM ,5
+24,Ổ cứng ,5
+25,Card đồ hoạ ,5
+26,Kích thước màn hình ,5
+27,Pin ,5
+28,Trọng lượng ,5
