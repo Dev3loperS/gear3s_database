@@ -131,7 +131,7 @@ create table product(
 
 create table image(
 	id int auto_increment,
-    name text not null,
+    name text unique not null,
     
     primary key(id)
 );
